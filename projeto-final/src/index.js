@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import '../src/Estilos.css';
+
 import Formulario from './Formulario';
+
 
 
 class Principal extends React.Component{

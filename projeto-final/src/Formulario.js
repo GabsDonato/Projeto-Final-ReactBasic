@@ -13,7 +13,7 @@ class Formulario extends React.Component{
             <form>
                 <input type='text' placeholder='informe o nome' className='form-control' />
                 <input type='number' placeholder='informe a idade' className='form-control' />
-                <input type='submit' value='Cadastrar' />
+                <input type='submit' value='Cadastrar' className='btn btn-primary'/>
             </form>
         );
     }
